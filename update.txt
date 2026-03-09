@@ -1,0 +1,7 @@
+c = {
+'Name':['na','ti','vc'],
+'Marks':[80,90,70]
+}
+
+cd = pd.DataFrame(c)
+print(cd)
